@@ -10,14 +10,6 @@ const bran = {
   code: [Javascript, HTML, CSS, PHP, Java],
 }
 ```
-<h2> You can find me at... </h2>
-<p>
-  <a href="https://www.facebook.com/profile.php?id=100074349482886" target="blank" >
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="instagram" height="20px" width="20px" />
-     Facebook
-  </a> 
-</p>
-
 <h2> Favorite Programming Languages</h2>
 <p>
 <a href="https://github.com/brandonihernandezc03"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript"></a>
