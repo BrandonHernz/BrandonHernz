@@ -1,5 +1,5 @@
 <h1 > Hello👋, I'm Brandon Isahir Hernández! 👨‍💻</h1>
-<img align='right' src="https://1drv.ms/u/s!Ah8ukG54nUy-fzLA7SfVnv35YP4?e=cWiKKQ](https://dsm01pap003files.storage.live.com/y4mineMZ…s2WeHGiBEqI?encodeFailures=1&width=288&height=288" width="230">
+<img align='right' src="https://user-images.githubusercontent.com/105176887/177460854-78cf74e0-7b78-41bc-9743-5e86a9bc84ee.png" width="230">
 
 > Student of the Benemérita Universidad Autónoma de Puebla, with a degree in Systems Engineering 😊.
 ### A little more about me...  
