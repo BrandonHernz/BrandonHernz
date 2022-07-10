@@ -22,4 +22,4 @@ const bran = {
 <a href="https://github.com/brandonihernandezc03"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
 </p>
 
-From [@Brandon Isahir Hernández](https://github.com/BrandonHernz)🐤
+Made with 💛 by [@Brandon Isahir Hernández](https://github.com/BrandonHernz)🐤
